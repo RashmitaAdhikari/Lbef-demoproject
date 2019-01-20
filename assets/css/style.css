@@ -1,0 +1,16 @@
+:root {
+  --main-bg-color: #ff6347;
+}
+.btn-main{
+	color: #fff;
+	background-color: var(--main-bg-color);
+}
+.navbar-brand, .nav-link{
+	color: var(--main-bg-color) !important;
+}
+.navbar-toggler{
+	background-color: var(--main-bg-color);
+}
+.font-main{
+	color: var(--main-bg-color) !important;	
+}
